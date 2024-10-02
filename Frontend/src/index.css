@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /* *{
   color: rgb(205, 180, 219);
   color: rgb(255, 200, 221);
